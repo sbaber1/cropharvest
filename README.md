@@ -1,4 +1,8 @@
-# CropHarvest
+# CropHarvest Mosaics
+
+Looking at the impact of preprocessing (atmospheric corrections, cloud masking, mosaic temporal range) on model accuracy when trained on the cropharvest dataset.
+
+(below is copied from the cropharvest repository from NASA Harvest, see here: https://github.com/nasaharvest/cropharvest/)
 
 CropHarvest is an open source remote sensing dataset for agriculture with benchmarks. It collects data from a variety of agricultural land use datasets and remote sensing products.
 
